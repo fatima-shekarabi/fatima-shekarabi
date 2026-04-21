@@ -3,18 +3,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=iOS+Developer;Swift+%26+SwiftUI&center=true&width=260&height=30&duration=1500&pause=300&color=0A66C2&vCenter=true&size=22" />
 </p>
-
-<p align="center">
+<p align="left">
   <strong>Apple Developer Academy Student</strong><br/>
   Università degli Studi di Napoli Federico II
 </p>
 
-<p align="center">
+<p align="left">
   <strong>MSc Applied Computer Science</strong><br/>
   University of Naples Parthenope
 </p>
 
-<p align="center">
+<p align="left">
   <strong>BSc Software Engineering</strong>
 </p>
 
