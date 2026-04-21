@@ -29,7 +29,7 @@ Swift · SwiftUI · Xcode · Git · GitHub
 ---
 
 ## Contact
-LinkedIn: https://linkedin.com/in/YOUR-USERNAME  
+LinkedIn: https://linkedin.com/in/fatima-shekarabi
 GitHub: https://github.com/fatima-shekarabi  
 
 ---
