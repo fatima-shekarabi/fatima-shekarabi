@@ -52,15 +52,22 @@ I’m especially interested in projects that combine technical implementation wi
 
 ### 📱 App Store — Potio: Tattoo Healing Guide
 
+<table>
+  <tr>
+    <td width="200">
+      <img src="https://raw.githubusercontent.com/fatima-shekarabi/fatima-shekarabi/main/Potio_app_icon%20(1).png" width="160"/>
+    </td>
+    <td>
+
 As part of a team, I contributed to the design and development of an iOS application that supports users throughout the tattoo healing process, offering a clear and structured aftercare experience.
 
 The app includes personalized care plans, smart reminders, and a visual healing timeline, with Apple Watch integration for quick access.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fatima-shekarabi/fatima-shekarabi/c0ac95d34d0a61768ad96b3956c058bcfb78e5bf/Potio_app_icon%20(1).png" width="180"/>
-</p>
-
 🔗 https://apps.apple.com/it/app/potio-tattoo-healing-guide/id6759653495
+
+  </td>
+  </tr>
+</table>
 
 ---
 
