@@ -50,8 +50,6 @@ I’m especially interested in projects that combine technical implementation wi
 
 ---
 
- ### 📱 App Store
-
 ### 📱 App Store
 
 As part of a team, I contributed to the design and development of an iOS application that supports users throughout the tattoo healing process, offering a clear and structured aftercare experience.
