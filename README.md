@@ -57,7 +57,7 @@ As part of a team, I contributed to the design and development of an iOS applica
 The app includes personalized care plans, smart reminders, and a visual healing timeline, with Apple Watch integration for quick access.
 
 <p align="center">
-  <img src="APP_IMAGE_LINK_HERE" width="250"/>
+  <img src="https://raw.githubusercontent.com/fatima-shekarabi/fatima-shekarabi/c0ac95d34d0a61768ad96b3956c058bcfb78e5bf/Potio_app_icon%20(1).png" width="180"/>
 </p>
 
 🔗 https://apps.apple.com/it/app/potio-tattoo-healing-guide/id6759653495
