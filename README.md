@@ -15,7 +15,7 @@
 
 I’m focused on iOS development with Swift and SwiftUI, with a strong interest in building clear, user-centered, and accessibility-driven applications.
 
-My background also includes experience with C, C++, C#, JavaScript, and basic Python, which has helped me build a broader understanding of programming and problem-solving.
+Alongside iOS development, my experience with C, C++, C#, JavaScript, and Python has helped me build a solid programming foundation and approach problems with a more structured and analytical mindset.
 
 ---
 
@@ -47,6 +47,14 @@ My background also includes experience with C, C++, C#, JavaScript, and basic Py
 
 My work so far includes interactive iOS applications, real-time ideas, and explorations involving Apple Watch integration.  
 I’m especially interested in projects that combine technical implementation with meaningful user experience.
+
+---
+
+ ### 📱 App Store
+
+I’ve published an iOS application on the App Store, gaining experience in taking a product from idea to release.
+
+🔗 [View on App Store](https://apps.apple.com/it/app/potio-tattoo-healing-guide/id6759653495?l=en-GB)
 
 ---
 
