@@ -52,9 +52,13 @@ I’m especially interested in projects that combine technical implementation wi
 
  ### 📱 App Store
 
-I’ve published an iOS application on the App Store, gaining experience in taking a product from idea to release.
+### 📱 App Store
 
-🔗 [View on App Store](https://apps.apple.com/it/app/potio-tattoo-healing-guide/id6759653495?l=en-GB)
+As part of a team, I contributed to the design and development of an iOS application that supports users throughout the tattoo healing process, offering a clear and structured aftercare experience.
+
+The app includes personalized care plans, smart reminders, and a visual healing timeline, helping users stay consistent and confident during recovery, with Apple Watch integration for quick access and tracking.
+
+🔗 https://apps.apple.com/it/app/potio-tattoo-healing-guide/id6759653495
 
 ---
 
