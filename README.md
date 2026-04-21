@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fatima</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=iOS+Developer;Swift+%26+SwiftUI&center=true&width=260&height=28&duration=1800&pause=400&color=000000&vCenter=true&size=20" />
+  <img src="https://readme-typing-svg.demolab.com?lines=iOS+Developer;Swift+%26+SwiftUI&center=true&width=260&height=30&duration=1500&pause=300&color=0A66C2&vCenter=true&size=22" />
 </p>
 
 <p align="center">
