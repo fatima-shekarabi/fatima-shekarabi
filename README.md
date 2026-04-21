@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Fatima 👋</h1>
+<h1 align="center">Hi, I'm Fatima</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=iOS+Developer;Swift+%26+SwiftUI&center=true&width=320&height=35&duration=2000&pause=500" />
+  <img src="https://readme-typing-svg.demolab.com?lines=iOS+Developer;Swift+%26+SwiftUI&center=true&width=260&height=28&duration=1800&pause=400&color=000000&vCenter=true&size=20" />
 </p>
 
 <p align="center">
-  MSc Applied Computer Science — University of Naples Parthenope <br>
+  MSc Applied Computer Science — University of Naples Parthenope <br/>
   Apple Developer Academy Student — Università degli Studi di Napoli Federico II
 </p>
 
