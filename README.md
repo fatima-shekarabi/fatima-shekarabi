@@ -6,10 +6,10 @@ iOS Developer focused on building user-centered and accessibility-driven applica
 
 ## 🧩 About Me
 
-- 🎓 MSc Applied Computer Science — University of Naples Parthenope  
-- 🍎 Apple Developer Academy Student — Università degli Studi di Napoli Federico II  
-- 💡 Interested in turning ideas into real, meaningful products  
-- 🌱 Continuously improving in iOS development and product thinking  
+-  MSc Applied Computer Science — University of Naples Parthenope  
+-  Apple Developer Academy Student — Università degli Studi di Napoli Federico II  
+-  Interested in turning ideas into real, meaningful products  
+-  Continuously improving in iOS development and product thinking  
 
 ---
 
