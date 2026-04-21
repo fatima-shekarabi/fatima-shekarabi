@@ -53,7 +53,7 @@ I’m especially interested in projects that combine technical implementation wi
 ### Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://www.linkedin.com/in/fatima-shekarabi/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/fatima-shekarabi">
