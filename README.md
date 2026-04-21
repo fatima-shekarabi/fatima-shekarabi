@@ -1,27 +1,29 @@
-# Hi, I'm Fatima 👋
+<h1 align="center">Hi, I'm Fatima 👋</h1>
 
-iOS Developer focused on building user-centered and accessibility-driven applications using Swift and SwiftUI.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=iOS+Developer;Swift+%26+SwiftUI;Apple+Developer+Academy+Student;MSc+Applied+Computer+Science&center=true&width=500&height=45"/>
+</p>
 
 ---
 
 ## 🧩 About Me
 
--  MSc Applied Computer Science — University of Naples Parthenope  
--  Apple Developer Academy Student — Università degli Studi di Napoli Federico II  
--  Interested in turning ideas into real, meaningful products  
--  Continuously improving in iOS development and product thinking  
+- 🎓 MSc Applied Computer Science — University of Naples Parthenope  
+- 🍎 Apple Developer Academy Student — Università degli Studi di Napoli Federico II  
+- 💡 I enjoy turning ideas into meaningful digital products  
+- 🌱 Currently growing in iOS development and product thinking  
 
 ---
 
-### 🛠 Languages & Tools
+## 🛠 Languages & Tools
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 </p>
 
 ---
@@ -31,24 +33,24 @@ iOS Developer focused on building user-centered and accessibility-driven applica
 - iOS Development  
 - Accessibility  
 - User-Centered Design  
-- Real-time interactions  
 
 ---
 
-## 🚀 Work
+## 📊 GitHub Stats
 
-I’ve worked on several iOS projects exploring interactive experiences, real-time systems, and Apple Watch integration.  
-My work focuses on balancing technical implementation with real user needs.
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=fatima-shekarabi&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatima-shekarabi&layout=compact&hide_border=true" height="150"/>
+</p>
+
+---
+
+## ✨ A bit of me
+
+I enjoy building things, learning new technologies, and continuously improving step by step.
 
 ---
 
 ## 📫 Connect with me
 
-- LinkedIn: https://linkedin.com/in/fatima-shekarabi
-- GitHub: https://github.com/fatima-shekarabi  
-
----
-
-## ⚡ Note
-
-Always learning, building, and improving — step by step.
+- LinkedIn: https://linkedin.com/in/YOUR-USERNAME  
