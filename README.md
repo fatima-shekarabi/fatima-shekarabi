@@ -5,13 +5,16 @@
 </p>
 
 <p align="center">
-  Apple Developer Academy Student — Università degli Studi di Napoli Federico II <br/>
-
-  MSc Applied Computer Science — University of Naples Parthenope <br/>
-
-  BSc Software Engineering 
+  Apple Developer Academy Student — Università degli Studi di Napoli Federico II
 </p>
 
+<p align="center">
+  MSc Applied Computer Science — University of Naples Parthenope
+</p>
+
+<p align="center">
+  BSc Software Engineering
+</p>
 ---
 
 ### About Me
