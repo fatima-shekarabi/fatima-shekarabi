@@ -16,20 +16,19 @@
   BSc Software Engineering
 </p>
 
-<table align="center">
-  <tr>
-    <td>🍎</td>
-    <td><strong>Apple Developer Academy Student</strong><br/>Università degli Studi di Napoli Federico II</td>
-  </tr>
-  <tr>
-    <td>🎓</td>
-    <td><strong>MSc Applied Computer Science</strong><br/>University of Naples Parthenope</td>
-  </tr>
-  <tr>
-    <td>🎓</td>
-    <td><strong>BSc Software Engineering</strong></td>
-  </tr>
-</table>
+<p align="center">
+  <strong>Apple Developer Academy Student</strong><br/>
+  Università degli Studi di Napoli Federico II
+</p>
+
+<p align="center">
+  <strong>MSc Applied Computer Science</strong><br/>
+  University of Naples Parthenope
+</p>
+
+<p align="center">
+  <strong>BSc Software Engineering</strong>
+</p>
 
 ---
 
