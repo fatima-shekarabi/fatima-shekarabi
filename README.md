@@ -50,11 +50,15 @@ I’m especially interested in projects that combine technical implementation wi
 
 ---
 
-### 📱 App Store
+### 📱 App Store — Potio: Tattoo Healing Guide
 
 As part of a team, I contributed to the design and development of an iOS application that supports users throughout the tattoo healing process, offering a clear and structured aftercare experience.
 
-The app includes personalized care plans, smart reminders, and a visual healing timeline, helping users stay consistent and confident during recovery, with Apple Watch integration for quick access and tracking.
+The app includes personalized care plans, smart reminders, and a visual healing timeline, with Apple Watch integration for quick access.
+
+<p align="center">
+  <img src="APP_IMAGE_LINK_HERE" width="250"/>
+</p>
 
 🔗 https://apps.apple.com/it/app/potio-tattoo-healing-guide/id6759653495
 
