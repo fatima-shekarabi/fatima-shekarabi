@@ -15,6 +15,7 @@
 <p align="center">
   BSc Software Engineering
 </p>
+
 ---
 
 ### About Me
