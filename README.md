@@ -47,7 +47,11 @@ Alongside iOS development, my experience with C, C++, C#, JavaScript, and Python
 - iOS Development with Swift and SwiftUI  
 - User-centered product thinking  
 - Accessibility-driven applications  
-- Building more solid and polished projects step by step  
+- Building more solid and polished projects step by step
+- Research-Driven Development
+- Spatial Design & Procedural Systems
+
+
 
 ---
 
