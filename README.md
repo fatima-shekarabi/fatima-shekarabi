@@ -20,10 +20,7 @@
 ---
 
 ### About Me
-
-I’m focused on iOS development with Swift and SwiftUI, with a strong interest in building clear, user-centered, and accessibility-driven applications.
-
-Alongside iOS development, my experience with C, C++, C#, JavaScript, and Python has helped me build a solid programming foundation and approach problems with a more structured and analytical mindset.
+I’m an iOS Developer focused on creating software that pushes past conventional boundaries to solve real human problems. From building AI-driven accessibility tools to turning abstract equations into interactive spatial realities, my work is driven by deep curiosity and patient research. I build to explore hidden user needs, break down complex frameworks, and create technology that feels entirely intuitive and meaningful.
 
 ---
 
