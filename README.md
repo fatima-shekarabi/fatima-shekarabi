@@ -86,7 +86,7 @@ The app includes personalized care plans, smart reminders, and a visual healing 
 <table>
   <tr>
     <td width="200">
-      <img src="https://raw.githubusercontent.com/fatima-shekarabi/fatima-shekarabi/main/tinto_app_icon.png" width="160"/>
+      <img src="https://raw.githubusercontent.com/fatima-shekarabi/fatima-shekarabi/main/Tintoicon2.png" width="160"/>
     </td>
     <td>
 
@@ -99,6 +99,7 @@ The app features a color scanner that extracts palettes from real artworks, an A
   </td>
   </tr>
 </table>
+
 ### Connect
 
 <p>
