@@ -9,18 +9,20 @@
 </p>
 
 <p align="left">
-  <strong>MSc Applied Computer Science</strong><br/>
+  <strong>Master's Student, Applied Computer Science</strong><br/>
   University of Naples Parthenope
 </p>
 
 <p align="left">
-  <strong>BSc Software Engineering</strong>
+  <strong>Bachelor's Degree, Software Engineering</strong><br/>
+  Payam Noor University, Tehran
 </p>
 
 ---
 
 ### About Me
-I’m an iOS Developer focused on creating software that pushes past conventional boundaries to solve real human problems. From building AI-driven accessibility tools to turning abstract equations into interactive spatial realities, my work is driven by deep curiosity and patient research. I build to explore hidden user needs, break down complex frameworks, and create technology that feels entirely intuitive and meaningful.
+Curious iOS Developer who believes great technology should feel invisible, intuitive, and above all make life a little more human. Through my experience at the Apple Developer Academy, I turned that belief into products driven by deep research, from real-time accessibility tools to data-driven solutions. The Academy inspired me to constantly break down complex systems and share what I learn, leading me to write technical articles on Apple frameworks that connect with developers worldwide.
+Now, I am eager to bring my computer engineering foundation and hunger for in quiry into an advanced, research-first environment.
 
 ---
 
