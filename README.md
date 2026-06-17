@@ -68,10 +68,8 @@ A selection of my published work, these apps are live on the App Store, each one
       <img src="https://raw.githubusercontent.com/fatima-shekarabi/fatima-shekarabi/main/Potio_app_icon%20(1).png" width="160"/>
     </td>
     <td>
-
-As part of a team, I contributed to the design and development of an iOS application that supports users throughout the tattoo healing process, offering a clear and structured aftercare experience.
-
-The app includes personalized care plans, smart reminders, and a visual healing timeline, with Apple Watch integration for quick access.
+Your tattoo deserves proper care. Potio keeps you on track from day one to fully healed.<br/>
+Potio guides you through every step of tattoo aftercare — from the first wash to fully healed skin. Built around your tattoo's size, placement, and skin type, it creates a personalized daily care plan to not miss a step or wonder what to do next.
 
 🔗 https://apps.apple.com/it/app/potio-tattoo-healing-guide/id6759653495
 
@@ -91,9 +89,8 @@ The app includes personalized care plans, smart reminders, and a visual healing 
     </td>
     <td>
 
-As part of Redeem Team, I contributed to the design and development of an iOS app that transforms museum visits into creative adventures for children aged 6–11.
-
-The app features a color scanner that extracts palettes from real artworks, an AR painting experience, and a personal gallery where every creation is saved.
+Tinto transforms museum visits into creative, color-driven experiences for children.<br/>
+Point your camera at any artwork and Tinto instantly extracts its dominant colors, revealing the hidden palette behind every painting. Use those colors to mix, match, and create your own masterpieces, either on a touch canvas or through AR hand tracking in the air.
 
 🔗 https://apps.apple.com/app/tinto-your-museum-buddy/id6777824863
 
