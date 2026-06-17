@@ -79,7 +79,26 @@ The app includes personalized care plans, smart reminders, and a visual healing 
 </table>
 
 ---
+---
 
+### 📱 App Store — Tinto: Your Museum Buddy
+
+<table>
+  <tr>
+    <td width="200">
+      <img src="https://raw.githubusercontent.com/fatima-shekarabi/fatima-shekarabi/main/tinto_app_icon.png" width="160"/>
+    </td>
+    <td>
+
+As part of Redeem Team, I contributed to the design and development of an iOS app that transforms museum visits into creative adventures for children aged 6–11.
+
+The app features a color scanner that extracts palettes from real artworks, an AR painting experience, and a personal gallery where every creation is saved.
+
+🔗 https://apps.apple.com/app/tinto-your-museum-buddy/id6777824863
+
+  </td>
+  </tr>
+</table>
 ### Connect
 
 <p>
