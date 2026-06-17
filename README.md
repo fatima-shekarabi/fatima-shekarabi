@@ -56,8 +56,7 @@ Now, I am eager to bring my computer engineering foundation and hunger for in qu
 
 ### Selected Work
 
-My work so far includes interactive iOS applications, real-time ideas, and explorations involving Apple Watch integration.  
-I’m especially interested in projects that combine technical implementation with meaningful user experience.
+A selection of my published work, these apps are live on the App Store, each one built with a focus on solving a real, everyday problem.
 
 ---
 
